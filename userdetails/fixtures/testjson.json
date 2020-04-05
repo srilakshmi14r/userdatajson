@@ -1,0 +1,74 @@
+[
+  {
+    "model": "userdetails.users",
+    "pk":1 ,
+    "fields": {
+      "name": " Egon Spengler",
+      "timezone": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "userdetails.ActivePeriod",
+    "pk": 1,
+    "fields": {
+      "starttime": "Feb 1 2020",
+      "endtime": “Feb 1 2020”,
+      "users_id": 1
+    }
+  },
+  {
+    "model": "userdetails.ActivePeriod",
+    "pk": 2,
+    "fields": {
+      "starttime": "Mar 1 2020",
+      "endtime": “Mar 1 2020”,
+      "users_id": 1
+    }
+},
+{
+
+    "model": "userdetails.ActivePeriod",
+    "pk": 3,
+    "fields": {
+      "starttime": "Mar 16 2020",
+      "endtime": “Mar 16 2020”,
+      "users_id":1
+    }
+  },
+  {
+    "model": " userdetails.users ",
+    "pk": 2,
+    "fields": {
+      "name": " Glinda Southgood",
+      "timezone": "Asia/Kolkata"
+    }
+  },
+  {
+    "model": "userdetails.ActivePeriod",
+    "pk": 4,
+    "fields": {
+      "starttime": "Feb 1 2020",
+      "endtime": “Feb 1 2020”,
+      "users_id": 2
+    }
+  },
+  {
+"model": "userdetails.ActivePeriod",
+    "pk": 5,
+    "fields": {
+      "starttime": "Feb 1 2020",
+      "endtime": “Feb 1 2020”,
+      "users_id": 2
+    }
+  },
+{
+    "model": "userdetails.ActivePeriod",
+    "pk": 6,
+    "fields": {
+      "starttime": "Feb 1 2020",
+      "endtime": “Feb 1 2020”,
+      "users_id": 2
+    }
+  }
+
+]
